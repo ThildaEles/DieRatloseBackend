@@ -1,4 +1,4 @@
-package com.example.backend;
+package com.example.dieratlosebackend;
 
 public class Product {
     private String id;

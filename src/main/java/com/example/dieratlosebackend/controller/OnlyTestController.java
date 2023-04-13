@@ -1,6 +1,7 @@
-package com.example.backend.controller;
+package com.example.dieratlosebackend.controller;
 
-import com.example.backend.Product;
+
+import com.example.dieratlosebackend.Product;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
